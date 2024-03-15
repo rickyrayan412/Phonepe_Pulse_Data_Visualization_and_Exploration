@@ -1,6 +1,6 @@
 # Phonep Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
 ## Technologies Used:
-- Github Cloning")
+- Github Cloning
 - Python
 - Pandas
 - PostgreSQL
